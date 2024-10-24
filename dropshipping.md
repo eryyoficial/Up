@@ -81,7 +81,8 @@
 Começar do zero em dropshipping sem investimento financeiro é desafiador, mas possível com dedicação e criatividade. Foque na construção de uma marca autêntica e na criação de uma comunidade ao redor dos produtos que você oferece!
 
 
-Claro! Aqui está uma lista de ferramentas, plataformas e IAs gratuitas que podem ajudar no seu negócio de dropshipping, juntamente com dicas sobre como usá-las:
+#ista de ferramentas, plataformas e IAs gratuitas que podem ajudar no seu negócio de dropshipping
+---
 
 ### 1. **Shopify (Teste Gratuito)**
    - **Descrição**: Plataforma de criação de lojas online.
@@ -144,8 +145,7 @@ Claro! Aqui está uma lista de ferramentas, plataformas e IAs gratuitas que pode
    - **Dica**: Foque em palavras-chave de cauda longa que podem ter menos concorrência.
 
 #CRIANDO A EMPRESA
-___
-Ótimo! Vamos estruturar o passo a passo para criar sua empresa de dropshipping. Aqui estão as etapas que você deve seguir:
+---
 
 ### 1. **Defina o Nome da Empresa**
    - Escolha um nome que reflita seu nicho e seja fácil de lembrar.
