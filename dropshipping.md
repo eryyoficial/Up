@@ -27,7 +27,8 @@
 10. **Produtos de Cozinha**: Utensílios de cozinha e gadgets culinários.
 
 
-Claro! Aqui está um plano básico para começar um negócio de dropshipping gratuito, focando nos produtos que você mencionou:
+#Plano básico para começar um negócio de dropshipping gratuito
+---
 
 ### 1. **Escolha de Nicho**
    - **Nicho Selecionado**: Tecnologia e Bem-Estar.
