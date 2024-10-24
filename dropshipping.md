@@ -27,7 +27,7 @@
 10. **Produtos de Cozinha**: Utensílios de cozinha e gadgets culinários.
 
 
-#Plano básico para começar um negócio de dropshipping gratuito
+#PLANO BÁSICO PARA COMEÇAR UM NEGÓCIO DE DROPSHIPPING GRATUITO
 ---
 
 ### 1. **Escolha de Nicho**
@@ -81,7 +81,7 @@
 Começar do zero em dropshipping sem investimento financeiro é desafiador, mas possível com dedicação e criatividade. Foque na construção de uma marca autêntica e na criação de uma comunidade ao redor dos produtos que você oferece!
 
 
-#ista de ferramentas, plataformas e IAs gratuitas que podem ajudar no seu negócio de dropshipping
+#LISTA DE FERRAMENTAS, PLATAFORMAS E IAS GRATUITAS QUE PODEM AJUDAR NO SEU NEGÓCIO DE DROPSHIPPING
 ---
 
 ### 1. **Shopify (Teste Gratuito)**
